@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Berserk21
-- 👀 I’m interested in ... Block Chain development, Smart Contracts, Machine Learning, Deep Learning
+- 👀 I’m interested in ...  Machine Learning, Deep Learning
 - 🌱 I’m currently learning ... Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...gmail : alenbiju69@gmail.com , 
