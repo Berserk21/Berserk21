@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Berserk21
-- 👀 I’m interested in ...  Machine Learning, Deep Learning
-- 🌱 I’m currently learning ... Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...gmail : alenbiju69@gmail.com , 
+##VIDYA
 
-<!---
-Berserk21/Berserk21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This project allows users to upload a photo and specify a topic of interest. Using advanced AI, the system generates a virtual instructor resembling the uploaded photo, who delivers a class on the chosen topic. This interactive and personalized experience makes learning engaging and tailored to individual preferences.
